@@ -2,7 +2,7 @@
 function Balerina() {
   return (
     <>
-        <h1 class="text-xl text-center text-white ">Balerina Team</h1>
+        <h1 class="text-xl text-center text-white animate-pulsing">Balerina Team</h1>
         <details class="text-center">
             <summary> Team Members </summary>
             <div class="text-lg text-[#a6e7d0] text-center mt-2"> Our talented Balerina development team </div>
